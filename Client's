@@ -1,0 +1,4 @@
+cd your-repo-folder-name
+mkdir client
+cd client
+npx create-react-app
